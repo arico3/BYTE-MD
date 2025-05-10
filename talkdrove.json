@@ -110,7 +110,10 @@
         "value":"972",
         "required": false
         
-      }
+      },"VIEW_ONCE": {
+          "description": "Save and view once pictures and videos,To enable put true, To disable put false (e.g,true)",
+          "value":972",
+          "required": true 
     }
   
   }
